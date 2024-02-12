@@ -1,0 +1,30 @@
+C:\Users\1731\Documents\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\bin\Debug\net7.0\SilverCoastHotel.exe
+C:\Users\1731\Documents\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\bin\Debug\net7.0\SilverCoastHotel.deps.json
+C:\Users\1731\Documents\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\bin\Debug\net7.0\SilverCoastHotel.runtimeconfig.json
+C:\Users\1731\Documents\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\bin\Debug\net7.0\SilverCoastHotel.dll
+C:\Users\1731\Documents\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\bin\Debug\net7.0\SilverCoastHotel.pdb
+C:\Users\1731\Documents\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\obj\Debug\net7.0\SilverCoastHotel.csproj.AssemblyReference.cache
+C:\Users\1731\Documents\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\obj\Debug\net7.0\SilverCoastHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1731\Documents\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\obj\Debug\net7.0\SilverCoastHotel.AssemblyInfoInputs.cache
+C:\Users\1731\Documents\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\obj\Debug\net7.0\SilverCoastHotel.AssemblyInfo.cs
+C:\Users\1731\Documents\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\obj\Debug\net7.0\SilverCoastHotel.csproj.CoreCompileInputs.cache
+C:\Users\1731\Documents\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\obj\Debug\net7.0\SilverCoastHotel.dll
+C:\Users\1731\Documents\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\obj\Debug\net7.0\refint\SilverCoastHotel.dll
+C:\Users\1731\Documents\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\obj\Debug\net7.0\SilverCoastHotel.pdb
+C:\Users\1731\Documents\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\obj\Debug\net7.0\SilverCoastHotel.genruntimeconfig.cache
+C:\Users\1731\Documents\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\obj\Debug\net7.0\ref\SilverCoastHotel.dll
+D:\C# Latihan\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\bin\Debug\net7.0\SilverCoastHotel.exe
+D:\C# Latihan\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\bin\Debug\net7.0\SilverCoastHotel.deps.json
+D:\C# Latihan\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\bin\Debug\net7.0\SilverCoastHotel.runtimeconfig.json
+D:\C# Latihan\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\bin\Debug\net7.0\SilverCoastHotel.dll
+D:\C# Latihan\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\bin\Debug\net7.0\SilverCoastHotel.pdb
+D:\C# Latihan\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\obj\Debug\net7.0\SilverCoastHotel.csproj.AssemblyReference.cache
+D:\C# Latihan\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\obj\Debug\net7.0\SilverCoastHotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Latihan\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\obj\Debug\net7.0\SilverCoastHotel.AssemblyInfoInputs.cache
+D:\C# Latihan\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\obj\Debug\net7.0\SilverCoastHotel.AssemblyInfo.cs
+D:\C# Latihan\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\obj\Debug\net7.0\SilverCoastHotel.csproj.CoreCompileInputs.cache
+D:\C# Latihan\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\obj\Debug\net7.0\SilverCoastHotel.dll
+D:\C# Latihan\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\obj\Debug\net7.0\refint\SilverCoastHotel.dll
+D:\C# Latihan\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\obj\Debug\net7.0\SilverCoastHotel.pdb
+D:\C# Latihan\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\obj\Debug\net7.0\SilverCoastHotel.genruntimeconfig.cache
+D:\C# Latihan\GeriMarizki-BC35-MidTest\SilverCoastHotel\SilverCoastHotel\obj\Debug\net7.0\ref\SilverCoastHotel.dll
